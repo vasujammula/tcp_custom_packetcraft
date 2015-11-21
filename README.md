@@ -4,3 +4,6 @@ This project is aimed to provide regression suite for TCP/IP testing and network
 This suite provides test cases for several network level attacks.
 This suite provides test cases to check the TCP/IP functionality by varying fields in a TCP connection.
 we will identify setup of cases which are minimum requirement to  qualify network from basic attacks.
+
+This Suite can be run from windows or linux with customized parameters.
+output will be saved and stats will be reported in textual and graphical representation
